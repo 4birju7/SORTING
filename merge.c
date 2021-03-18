@@ -44,3 +44,9 @@ void merge_sort ( int A[], int n )
   merge ( L, mid, R, n-mid, A );
   printf("\nThis is to observe the changes made in a file in a branch in git and observe that if there is any change or not\n");
 }
+/* THIS IS JUST SORTING PART, YOU CAN DECIDE THE SORTING CRITERIA 
+FOR DIFFERENT SORTING QUESTIONS. ALSO YOU CAN SAVE THIS AS HEADERS 
+AND INCLUDE IN YOUR FILE BY CUSTOMISING IT ACCORDING TO THE NEED OF 
+QUESTION YOU ARE ATTEMPTING*/
+
+/*THIS FILE IS CREATED BY BRIJESH ROHIT (4birju7)*/
