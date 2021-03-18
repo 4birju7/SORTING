@@ -45,3 +45,8 @@ int main()
   printf("\nWell there is a chnge just to see changes made in the file through git");
   return 0;
 }
+/* THIS IS MAIN FILE WITH UNSORTED ARRAY, AND AS CODED ABOVE, 
+THIS IS HOW YOU CAN INCLUDE C FILES AND RUN DIRECTLY AND MODIFY 
+SORTING CRITERIA ACCORDING TO THE NEED OF QUESTION.*/
+
+/*THIS FILE IS CREATED BY BRIJESH ROHIT (4birju7)*/
